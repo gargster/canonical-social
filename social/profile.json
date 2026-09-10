@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:9ba27e3f92fd661b4a4b1d82c7b88937b4eeca00b5919659602931eb5fecc7a5",
   "handle": "noah.social",
-  "repoURL": "https://github.com/gargster/noah-social.git",
+  "repoURL": "https://github.com/gargster/anna-social.git",
   "displayName": "Noah",
   "bio": "Swimmer",
   "created": "2026-09-09T04:10:47.523844Z",
-  "signature": "zWlCyMdEQAHGnhrLFgqOzkWp3pExsfDGh3Ji9TnUNypFUZgoqrzAILk1rrQIFL7a4IXUa+Y9BRtKFZ1oNaV8BQ=="
+  "signature": "bDD1TzTH82FIN9vk7dqdC6qXbJ0XBz4kUouiKqaNZHjO1Z/JkSz8OESaU2NH7r7n0CX+wU3LDHaJsSwM4HkiBg=="
 }
