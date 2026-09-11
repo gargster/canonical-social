@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:676fa51d8802ceaabd113eea01057eba2d12915eecdeb70aff82e67c4ba3d6c1",
-  "handle": "sam.social",
-  "repoURL": "https://github.com/gargster/sam-social.git",
-  "displayName": "Sam",
-  "bio": "Student at UNSW",
-  "created": "2026-09-06T09:20:43.333732Z",
-  "signature": "b3aWG9adkGJLdviYbCi7D5VzrU7rQ5DyYSyhdDzzRuUPl7N6zZUdgW9hUaKZGiUF5L3TfSTrwuenwm6jQbe4Cg=="
+  "publicKey": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
+  "handle": "canonical.social",
+  "repoURL": "https://github.com/gargster/canonical-social.git",
+  "displayName": "Canonical",
+  "bio": "Genesis",
+  "created": "2026-09-06T03:30:31.900606Z",
+  "signature": "ssxZsUu6fb5CyEWfydmYd6KHviprpOupfp5QViD9cmFN+7Zh8KbbJnL7/rsw9GV7yKBAq5F8cBpWCIdqwRRxBg=="
 }
