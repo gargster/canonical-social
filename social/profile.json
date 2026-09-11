@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:b813a1858bfced01c43f5d2a521fd5c892abf6e67c0c911832fdc86943290504",
   "handle": "oliver.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/oliver-social.git",
   "displayName": "Oliver",
   "bio": "20 year old",
   "created": "2026-09-11T06:57:27.951589Z",
-  "signature": "K+VnjSSli9/+lmrdyXYhckvbOouEq+ZkSZwGqupO4qzt1zHXVRCUqPflArtGjYn/TPYRww3OUahEUyJ6JHHRBA=="
+  "signature": "GeTEiQMKjWciOO4pOyludjYiHDVnqr96J5ezVnDk//EUWyZpZly8F40czivK0UBxGZ8KcAEu8hvC9YP+9AzDBA=="
 }
