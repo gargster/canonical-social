@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:b813a1858bfced01c43f5d2a521fd5c892abf6e67c0c911832fdc86943290504",
-  "handle": "oliver.social",
-  "repoURL": "https://github.com/gargster/oliver-social.git",
-  "displayName": "Oliver",
-  "bio": "20 year old",
-  "created": "2026-09-11T06:57:27.951589Z",
-  "signature": "GeTEiQMKjWciOO4pOyludjYiHDVnqr96J5ezVnDk//EUWyZpZly8F40czivK0UBxGZ8KcAEu8hvC9YP+9AzDBA=="
+  "publicKey": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
+  "handle": "canonical.social",
+  "repoURL": "https://github.com/gargster/canonical-social.git",
+  "displayName": "Canonical",
+  "bio": "Genesis",
+  "created": "2026-09-06T03:30:31.900606Z",
+  "signature": "ssxZsUu6fb5CyEWfydmYd6KHviprpOupfp5QViD9cmFN+7Zh8KbbJnL7/rsw9GV7yKBAq5F8cBpWCIdqwRRxBg=="
 }
