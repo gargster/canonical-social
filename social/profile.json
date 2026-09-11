@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:8d01dc4eedf7352d45e32503528b57653d7fac491844a350b4fa542652ae57cd",
   "handle": "levi.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/levi-social.git",
   "displayName": "Levi",
   "bio": "19 year old",
   "created": "2026-09-11T07:17:37.172261Z",
-  "signature": "BgzKn/ururUvEJqfxAhm6bVaTYWKsAMmzokHlnmnP8DmpBcGMul1qVyax2uPK+agfh5jtUlXoPTpe+WNbCXUCw=="
+  "signature": "nehJbknzKYOchw/Pi/6RSDsBxsPr5EqoHhvWHYNCO8eln+raXHpz8UlU8YEn7Odm8B1ZHaclkQ2lWXV0qhLbAg=="
 }
