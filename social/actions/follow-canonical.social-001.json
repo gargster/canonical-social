@@ -2,7 +2,7 @@
   "id": "follow-canonical.social-001",
   "type": "follow",
   "author": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
-  "created": "2026-09-09T01:55:04.473798Z",
-  "target": "ed25519:e292d241ce730da1cece896955e8f22a593effa13024fc018d953a9144dda778",
-  "signature": "UyFLORIIeJFPsRyyFyO20ZyOE4mYxeqyunMrsS4Sibe3S9gVIBz4qKBNNHmCan2NGreXAczMZ20r1LH9AZHfCg=="
+  "created": "2026-09-11T07:01:44.882955Z",
+  "target": "ed25519:b813a1858bfced01c43f5d2a521fd5c892abf6e67c0c911832fdc86943290504",
+  "signature": "5SRp2iHWdNUM2yvrRaFuXPYRgOd9RsYTxx+NyH9VfF5NNE89s4Nd4Mmoio/cAtCVz6UuZ52sEDX91+akWZZyAA=="
 }
